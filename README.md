@@ -1,7 +1,9 @@
 ![Profile Banner](https://github.com/muinuddin-sm12/muinuddin-sm12/blob/main/github-header-image.png)
-<h2 align="left">
-  <img align="center" src="https://github.com/muinuddin-sm12/muinuddin-sm12/blob/main/icons/stats.gif" width="32"/>Stats
-</h2>
+<h3>About me:</h3>
+<p> 👋 Hi there, I'm Muin! a Junior Front End Web Developer passionate about Software Engineering. I began my journey in the exciting world of web development. Even though I'm new to this field, I'm very passionate and dedicated. Currently, I am pursuing a BSc in Computing at Britts Imperial University College.</p>
+
+
+<h3>Stats</h3>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muinuddin-sm12&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
 </div>
