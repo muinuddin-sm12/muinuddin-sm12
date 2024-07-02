@@ -1,3 +1,4 @@
+![Profile Banner](https://github.com/muinuddin-sm12/muinuddin-sm12/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Muin Uddin Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
