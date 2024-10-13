@@ -15,7 +15,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+![Context API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 
 # 📊 Github Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muinuddin-sm12&theme=codestackr&hide_border=false" alt="GitHub Streak Stats">
