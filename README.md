@@ -16,6 +16,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Context API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)<br/>
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 Github Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muinuddin-sm12&theme=codestackr&hide_border=false" alt="GitHub Streak Stats">
