@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muin!
-👨🏻‍💻 Front-End Developer sharing my journey and challenges in web development<br/>
+👨🏻‍💻 MERN Stack Developer sharing my journey and challenges in web development<br/>
 👨🏻‍🎓 Pursuing a BSc in Computing at Britts Imperial University College, UAE<br/>
 🎨 Creating projects and exploring UI/UX design, web technologies, and productivity tips<br/>
 💡 Currently expanding my skills in full-stack development<br/>
