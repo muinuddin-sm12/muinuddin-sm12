@@ -24,5 +24,4 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 Github Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muinuddin-sm12&theme=codestackr&hide_border=false" alt="GitHub Streak Stats">
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=muinuddin-sm12&theme=codestackr)](https://git.io/streak-stats)
