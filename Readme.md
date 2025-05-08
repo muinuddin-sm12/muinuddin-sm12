@@ -1,10 +1,17 @@
-# 👋 Hi, I'm Muin!
+## 👋 Hi, I'm Muin!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muin-uddin)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=social&logo=facebook)](https://www.facebook.com/muinuddin.sm12)
+[![GitHub Followers](https://img.shields.io/github/followers/muinuddin-sm12?style=social&label=Follow&logo=github)](https://github.com/muinuddin-sm12)
+
+<h2 align=""><img src="https://res.cloudinary.com/dxexn7tik/image/upload/v1746732047/Lofi_bneadw.jpg"></h2>
+
+<h3>About me</h3>
 👨🏻‍💻 MERN Stack Developer sharing my journey and challenges in web development<br/>
 👨🏻‍🎓 Pursuing a BSc in Computing at Britts Imperial University College, UAE<br/>
 🎨 Creating projects and exploring UI/UX design, web technologies, and productivity tips<br/>
 💡 Currently expanding my skills in full-stack development<br/>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -23,5 +30,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-# 📊 Github Stats
+## 📊 Github Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=muinuddin-sm12&theme=codeSTACKr&hide_border=true)
+
+## 📬 Contact Me
+- 📧 Email: muinuddin.sm12@gmail.com
+- 🌐 Portfolio: (https://muindev.vercel.app)
