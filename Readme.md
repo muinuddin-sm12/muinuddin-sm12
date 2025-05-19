@@ -31,7 +31,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📊 Github Stats
-![](https://nirzak-streak-stats.vercel.app/?user=muinuddin-sm12&theme=codeSTACKr&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=muinuddin-sm12&theme=codeSTACKr&hide_border=false)
 
 ## 📬 Contact Me
 - 📧 Email: muinuddin.sm12@gmail.com
